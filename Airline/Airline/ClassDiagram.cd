@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="1-to-1&#xD;&#xA;via pointer">
+    <Position X="4.992" Y="3.575" Height="0.65" Width="1.283" />
+  </Comment>
+  <Comment CommentText="1-to-many">
+    <Position X="6.883" Y="1.475" Height="0.291" Width="0.95" />
+  </Comment>
+  <Comment CommentText="1-to-many">
+    <Position X="3.65" Y="1.475" Height="0.291" Width="0.95" />
+  </Comment>
+  <Class Name="Airplane">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAIAIgIIEEAAAiAASACAQIAAAAAJAECkTAQAAAMQgA=</HashCode>
+      <FileName>Airplane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEIAAAwAAAAAAAAAAAAEAAAAAAAAAABAAggCA=</HashCode>
+      <FileName>Flight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightCompany">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAEAAAAAkAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>FlightCompany.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
